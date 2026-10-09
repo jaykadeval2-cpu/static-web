@@ -16,4 +16,4 @@ Deploy a simple HTML website using GitHub Pages.
 GitHub Pages, Git, HTML, CSS
 
 ## screnshot
-[!webpage](static.png)
+![My Static Website](screenshot.png)
