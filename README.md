@@ -14,3 +14,6 @@ https://github.com/jaykadeval2-cpu/static-web.git
 
 ## Tools Used
 GitHub Pages, Git, HTML, CSS
+
+## screnshot
+[!static](screenshot/static.png)
