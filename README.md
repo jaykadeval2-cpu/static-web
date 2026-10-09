@@ -10,10 +10,10 @@ Deploy a simple HTML website using GitHub Pages.
 4. Customized the site using CSS
 
 ## Live Website
-https://github.com/jaykadeval2-cpu/static-web.git
+[Visit My Live Website](https://jaykadeval2-cpu.github.io/static-web/)
 
 ## Tools Used
 GitHub Pages, Git, HTML, CSS
 
 ## screnshot
-[!webpage](screenshot/static.png)
+![My Static Website](screenshot.png)
