@@ -16,4 +16,4 @@ https://github.com/jaykadeval2-cpu/static-web.git
 GitHub Pages, Git, HTML, CSS
 
 ## screnshot
-[!static](screenshot/static.png)
+[!webpage](screenshot/static.png)
